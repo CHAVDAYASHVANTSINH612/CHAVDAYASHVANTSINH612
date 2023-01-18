@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @CHAVDAYASHVANTSINH612
-- 👀 I’m interested in learning c,c++,python programing language project and lroblem solving
-- 🌱 I’m currently learning c language 
-- 💞️ I’m looking to collaborate on c program project 
-- 📫 How to reach me ...
+- 👀 I’m interested in learning java , data structure ,algorithms , web development  project and problem solving
+- 🌱 I’m currently learning java ,data structures and algorithm , problem solving 
+- 💞️ I’m looking to collaborate on web development  project 
+- 📫 reach me yashvantsinhchavda2461@gmail.com
 
 <!---
 CHAVDAYASHVANTSINH612/CHAVDAYASHVANTSINH612 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
